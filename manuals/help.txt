@@ -1,0 +1,7 @@
+start       Starts the server. Can take 1 argument.
+close       closes the server
+exit        System close and exit
+help        Gives this message
+refactor    Required to add projects onto the server
+
+
